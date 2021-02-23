@@ -17,5 +17,5 @@ manipulação de array
 
 <h4 align="center">Result</h4>
 <p align="center">
-<img src="https://github.com/narelo/memory-game/blob/main/gif.gif?raw=true" alt="result">
+<img src="https://github.com/narelo/memory-game/blob/main/img/gif.gif?raw=true" alt="result">
 </p>
