@@ -9,9 +9,9 @@
 
 <h4 align="center">Concepts</h4>
 <p align="center">
-efeitos 3D (CSS)
-lógica de programação (condicionais)
-Immediately Invoked Function Expression
+efeitos 3D (CSS)<br>
+lógica de programação (condicionais)<br>
+Immediately Invoked Function Expression<br>
 manipulação de array
 </p>
 
